@@ -1,5 +1,7 @@
 # Sepia Filter
 
+This package was created during fall 2022 as an assigment for IN4110 at UiO.
+
 ## Instapy
 
 Instapy is a package that takes an image and runs it through a grayscale-
